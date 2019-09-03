@@ -8,7 +8,7 @@ public class Bullet: MonoBehaviour {
 	public float speed;
 	//A game object in the 3D world of unity is a visually rendered 3D object. Game objects are assigned a position on 3 axis: X,Y,Z
 	//By assigning this variable to a GameObject in the editor, we now have all the data stored in this GameObject including the position
-	//We will use this to assign a starting position for the bullet
+	//We will use this varuible to assign a starting position for the bullet
 	public GameObject firstPos;
 	//The current position of the bullet
 	public GameObject thisPos;
